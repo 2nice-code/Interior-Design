@@ -110,7 +110,7 @@ body{
    display: flex;
    justify-content: flex-end;
    list-style: none;
-   margin-right: 20PX;
+   margin-right: 20px;
 
  }
   .sticky{
@@ -240,6 +240,7 @@ body{
   font-weight: 400;
   font-size: 20px;
   line-height: 32px;
+  text-align: justify;
 }
 
 .aboutus{position: relative;
@@ -1086,14 +1087,13 @@ form{
 }
 
  .logo{
-      position: absolute;
      width: 117px;
       height: 99px;
      left: 40px;
 }
 
  .nav{ 
-   margin-right: 10PX;}
+   margin-right: 10px;}
  
  .in{
    padding-left: 10px;
@@ -1397,7 +1397,7 @@ top: 40px;
 #section1{
   margin-top: 40px;
 }
-                   /*SECTION 2 (820)*/
+                   /*SECTION 2 (770)*/
 
 
 
@@ -1424,7 +1424,7 @@ top: 40px;
 
 
 
-                 /*SECTION 3 (820)*/
+                 /*SECTION 3 (770)*/
 .information{ 
     margin-left: 40px;
      margin-top: 60px;
@@ -1436,7 +1436,7 @@ top: 40px;
     padding-right: 25px;
 }
 
-                     /*What we offer (820)*/
+                     /*What we offer (770)*/
 
 .pic14{
     width: 671.2px;
@@ -1444,7 +1444,7 @@ top: 40px;
 }
 
 
-                            /*SUBSCRIBE (950)*/
+                            /*SUBSCRIBE (770)*/
 .subscribe{
     margin-top: 50px;
 }
@@ -1468,5 +1468,157 @@ top: 40px;
 
 }
 
+                      @media only screen and (max-width: 650px) {
+.picture1{
+        height: 60vh;
+      }
+
+.big{
+  width: 400px;
+  left: 50px;
+  top: 180px;
+  font-size: 25px;
+}
+
+ .logo{
+     width: 94px;
+      height: 80px;
+     left: 20px;
+}
+
+ .nav{ 
+   margin-right: 5px;
+  }
+
+  .in{ 
+    padding-left: 8px;
+    font-size: 15px;
+
+ }
+
+ .nav li{
+  padding-left: 3px;
+  padding-left: 3px;
+  padding-right: 10px;
+ }
 
 
+.info1{
+  width: 94px;
+  height: 80px;
+  top: 250px;
+  left: 400px;
+}
+
+.info2{
+  width: 94px;
+  height: 80px;
+  top: 340px;
+  left: 190px;
+
+}
+.info3{
+  width: 94px;
+  height: 80px;
+  left: 110px;
+}
+
+.CTA {
+  left: 250px;
+  top: 260px;
+  font-size: 14px;
+  border-radius:50px;
+  padding:12px;
+}
+
+                          /*ACHIVEMENT 650*/
+
+
+.icon1, .icon2, .icon3{
+  height: 60px;
+  width: 60px;
+  align-self: center;
+  margin-left: 18px;
+}
+
+.icon3{
+  margin-left: 35px;
+}
+
+.icon2{
+  margin-left: 30px;
+}
+
+.word{
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.num{
+  font-size: 28px;
+}
+
+             /*SECTION 1 (650)*/
+
+.picture2{
+  width: 303px;
+height: 350px;
+}
+
+.about > p {
+  left: 20px;
+  top: 15px;
+  width: 210px;
+  font-size: 14px;
+  line-height: 18px;
+  
+}
+
+.aboutus{
+  left: 70px;
+  top: 5px;
+  font-size: 20px;
+}
+
+.line2{
+    left: 20px;
+    top: 20px;
+    max-width: 35px;
+    }
+
+  .read{
+    top: 50px;
+    left: 20px;
+     font-size: 16px;
+     padding: 15px;
+     border-radius: 15px;
+}
+
+                     /*SECTION 2 (820)*/
+
+  .line3{
+    max-width: 50px;
+    left: 40px;
+    }
+
+.latest{
+    margin-left: 120px;
+    font-size: 24px;
+        }
+
+.pic3{
+  height: 400px;
+  width: 320px;
+}
+
+.slide{
+    margin-left: 20px;}
+
+.word2{
+    line-height: 39px;}
+
+.more{
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 16px;
+}
