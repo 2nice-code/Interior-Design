@@ -394,6 +394,7 @@ body{
     font-size: 26px;
     line-height: 50px;
     color: #FFFFFF;
+    text-align: justify;
   }
 
 
@@ -1222,8 +1223,8 @@ height: 346px;
 .picture7{
   margin: 45px;
   width: 469px;
-height: 341px;
-margin-top: 125px;
+  height: 341px;
+  margin-top: 125px;
 }
 
 .list{
@@ -1330,7 +1331,6 @@ top: 40px;
 .description{font-weight: 600;
   width: 200px;
   font-size: 16px;
-
 }
 
 .pic14{
@@ -1594,16 +1594,18 @@ height: 350px;
      border-radius: 15px;
 }
 
-                     /*SECTION 2 (820)*/
+                     /*SECTION 2 (650)*/
 
   .line3{
-    max-width: 50px;
-    left: 40px;
+    max-width: 35px;
+    left: 20px;
+    top: -180px;
     }
 
 .latest{
-    margin-left: 120px;
-    font-size: 24px;
+    margin-left: 70px;
+    font-size: 20px;
+    top: -200px;
         }
 
 .pic3{
@@ -1611,14 +1613,179 @@ height: 350px;
   width: 320px;
 }
 
-.slide{
-    margin-left: 20px;}
-
-.word2{
-    line-height: 39px;}
-
 .more{
     padding: 15px;
     border-radius: 15px;
     font-size: 16px;
 }
+                      /* section 3 650*/
+
+.information{ 
+    margin-left: 30px;
+     margin-top: 40px;
+}
+
+.picture7{
+  margin: 30px;
+  width: 337px;
+  height: 244px;
+  margin-top: 100px;
+}
+
+.list{
+  width: 245px;
+  left: 160px;
+  border-radius: 10px;
+  padding: 30px;
+   top: 60px;
+}
+
+.tip{
+  font-size: 16px;
+  line-height: 23px;
+  }
+
+          /*CATEGORY 650*/
+
+ .line4{max-width: 35px;
+    top: 100px;
+    left: 30px;
+    }
+
+.cat{font-size: 20px;
+  margin-left: 80px;
+   top: 80px;
+        }
+
+  .pic{
+  height: 211px;
+  width: 149px;
+}
+
+.pic9{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.pic10{
+  width: 141px;
+}
+
+.wrapper1{
+ margin-left: 10px;
+}
+
+.light{
+margin-left: 26px;
+font-size: 18px;
+top: 140px;
+
+}
+
+.moody{
+margin-left: 175px;
+font-size: 18px;
+top: 40px;
+
+}
+
+.loft{
+  margin-left: 330px;
+  font-size: 18px;
+}
+
+ .line5{
+    top: -200px;
+    max-width: 35px;
+    left: 30px;
+    }
+
+.past{
+    top: -220px;
+    font-size: 20px;
+    margin-left: 80px;
+        }
+
+#carousel{
+  margin-top: -180px;
+}
+
+.button{
+  margin: 15px;
+}
+
+.more2{
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 500px;
+    margin-bottom: 40px;
+}
+
+                                        /*What we offer 650*/
+
+.offer{
+    font-size: 30px;
+}
+
+.space{
+  margin-left: 50px;
+}
+
+.word3{
+  font-weight: 600;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+
+.description{font-weight: 500;
+width: 155px;
+font-size: 13px;
+}
+
+.pic14{
+  width: 469px;
+  height: 227px;
+}
+
+.word4{
+  font-size: 25px;
+}
+
+.pic17{
+  height: 222px;
+  width: 247px;
+  margin-right: 35px;
+}
+
+form{
+  padding-top: 5px;
+  margin-left: 40px;
+}
+
+.disc{
+    font-size: 22px;
+    line-height: 30px;    
+}
+
+.sub{
+  font-size: 14px;
+}
+
+.input{
+  padding: 5px;
+  padding-left: 0;
+  font-size: 12px; 
+  width: 200px;
+  }
+
+  .logo1{
+    width: 94px;
+    height: 80px;
+    padding: 20px;
+}
+
+footer{
+  height: 120px;
+}
+
+ }
+
