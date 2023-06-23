@@ -2022,19 +2022,23 @@ footer{
     font-size: 15px;
     margin-bottom: 10px;
   }
+
+  .gap{
+    width: 140px;
+  }
   
   .description{font-weight: 500;
-  width: 160px;
+  width: 145px;
   font-size: 12px;
   }
   
   .pic14{
-    width: 469px;
-    height: 227px;
+    width: 375px;
+    height: 181px;
   }
   
   .word4{
-    font-size: 25px;
+    font-size: 20px;
   }
   
   .pic17{
