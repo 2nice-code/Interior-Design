@@ -1497,13 +1497,13 @@ top: 40px;
 
 
 
-                      @media only screen and (max-width: 450px) {
+                      @media only screen and (max-width: 650px) {
 .picture1{
-        height: 45vh;
+        height: 60vh;
       }
 
 .big{
-  width: 300px;
+  width: 350px;
   left: 40px;
   top: 180px;
   font-size: 23px;
@@ -1517,12 +1517,12 @@ top: 40px;
 }
 
  .nav{ 
-   margin-right: 1px;
+   margin-right: 5px;
   }
 
   .in{ 
     padding-left: 5px;
-    font-size: 12px;
+    font-size: 14px;
 
  }
 
@@ -1538,7 +1538,7 @@ top: 40px;
   width: 94px;
   height: 80px;
   top: 160px;
-  left: 310px;
+  left: 410px;
 }
 
 .info2{
@@ -1562,7 +1562,7 @@ top: 40px;
   padding:10px;
 }
 
-                          /*ACHIVEMENT 450*/
+                          /*ACHIVEMENT 650*/
 
 
 .icon1, .icon2, .icon3{
@@ -1590,19 +1590,17 @@ top: 40px;
   margin-left: 20px;
 }
 
-             /*SECTION 1 (450)*/
+             /*SECTION 1 (650)*/
 
 .picture2{
-  width: 200px;
-height: 255px;
-margin-top: 50px;
+  width: 300px;
+height: 303px;
 }
 
 .about > p {
   left: 20px;
   top: 15px;
-  width: 190px;
-
+  width: 210px;
   font-size: 13px;
   line-height: 18px;
   
@@ -1628,7 +1626,7 @@ margin-top: 50px;
      border-radius: 15px;
 }
 
-                     /*SECTION 2 (450)*/
+                     /*SECTION 2 (650)*/
 
   .line3{
     max-width: 35px;
@@ -1663,22 +1661,22 @@ margin-top: 50px;
 
 .picture7{
   margin: 30px;
-  width: 337px;
-  height: 244px;
+  width: 328px;
+  height: 243px;
   margin-top: 100px;
 }
 
 .list{
-  width: 245px;
+  width: 250px;
   left: 160px;
   border-radius: 10px;
   padding: 30px;
-   top: 60px;
+   top: 50px;
 }
 
 .tip{
-  font-size: 16px;
-  line-height: 23px;
+  font-size: 15px;
+  line-height: 26px;
   }
 
           /*CATEGORY 650*/
@@ -1690,7 +1688,7 @@ margin-top: 50px;
 
 .cat{font-size: 20px;
   margin-left: 80px;
-   top: 80px;
+   top: 77px;
         }
 
   .pic{
@@ -1825,3 +1823,252 @@ footer{
 
  }
 
+                @media only screen and (max-width: 450px) {
+  .picture1{
+          height: 45vh;
+        }
+  
+  .big{
+    width: 320px;
+    left: 30px;
+    top: 180px;
+    font-size: 22px;
+  }
+  
+   .nav{ 
+     margin-right: 1px;
+    }
+  
+    .in{ 
+      padding-left: 5px;
+      font-size: 12px;
+   }
+
+  .info1{
+    width: 94px;
+    height: 80px;
+    top: 170px;
+    left: 320px;
+  }
+  
+  
+                            /*ACHIVEMENT 450*/
+  
+               /*SECTION 1 (450)*/
+  
+  .picture2{
+    width: 200px;
+  height: 255px;
+  margin-top: 50px;
+  }
+  
+  .about > p {
+    left: 20px;
+    top: 15px;
+    width: 190px; 
+    font-size: 13px;
+    line-height: 18px;
+    
+  }
+  
+  .aboutus{
+    left: 70px;
+    top: 5px;
+    font-size: 20px;
+  }
+  
+  .line2{
+      left: 20px;
+      top: 20px;
+      max-width: 35px;
+      }
+  
+  
+                       /*SECTION 2 (450)*/
+  
+    .line3{
+      max-width: 35px;
+      left: 20px;
+      top: -175px;
+      }
+  
+  .latest{
+      margin-left: 70px;
+      font-size: 20px;
+      top: -200px;
+          }
+  
+  .pic3{
+    height: 360px;
+    width: 288px;
+  }
+  
+                        /* section 3 450*/
+  
+  .information{ 
+      margin-left: 20px;
+       margin-top: 40px;
+  }
+  
+  .picture7{
+    margin: 15px;
+    width: 263px;
+    height: 195px;
+    margin-top: 100px;
+  }
+  
+  .list{
+    width: 190px;
+    left: 110px;
+    border-radius: 10px;
+    padding: 30px;
+     top: 50px;
+  }
+  
+  .tip{
+    font-size: 15px;
+    line-height: 16px;
+    }
+  
+            /*CATEGORY 450*/
+  
+   .line4{max-width: 35px;
+      top: 100px;
+      left: 30px;
+      }
+  
+  .cat{font-size: 20px;
+    margin-left: 80px;
+     top: 77px;
+          }
+  
+    .pic{
+    height: 170px;
+    width: 117px;
+  }
+  
+  .pic9{
+      padding-left: 4px;
+      padding-right: 4px;
+  }
+  .pic10{
+    width: 110px;
+  }
+  
+  .wrapper1{
+   margin-left: 7px;
+  }
+  
+  .light{
+  margin-left: 5px;
+  font-size: 15px;
+  top: 140px;
+  
+  }
+  
+  .moody{
+  margin-left: 125px;
+  font-size: 15px;
+  top: 40px;
+  
+  }
+  
+  .loft{
+    margin-left: 270px;
+    font-size: 15px;
+  }
+  
+   .line5{
+      top: -200px;
+      max-width: 35px;
+      left: 30px;
+      }
+  
+  .past{
+      top: -220px;
+      font-size: 20px;
+      margin-left: 80px;
+          }
+  
+  #carousel{
+    margin-top: -180px;
+  }
+  
+  .button{
+    margin: 15px;
+  }
+  
+  .more2{
+      padding: 15px;
+      font-size: 18px;
+      font-weight: 500px;
+      margin-bottom: 40px;
+  }
+  
+                                          /*What we offer 650*/
+  
+  .offer{
+      font-size: 30px;
+  }
+  
+  .space{
+    margin-left: 50px;
+  }
+  
+  .word3{
+    font-weight: 600;
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+  
+  .description{font-weight: 500;
+  width: 155px;
+  font-size: 13px;
+  }
+  
+  .pic14{
+    width: 469px;
+    height: 227px;
+  }
+  
+  .word4{
+    font-size: 25px;
+  }
+  
+  .pic17{
+    height: 222px;
+    width: 247px;
+    margin-right: 35px;
+  }
+  
+  form{
+    padding-top: 5px;
+    margin-left: 40px;
+  }
+  
+  .disc{
+      font-size: 22px;
+      line-height: 30px;    
+  }
+  
+  .sub{
+    font-size: 14px;
+  }
+  
+  .input{
+    padding: 5px;
+    padding-left: 0;
+    font-size: 12px; 
+    width: 200px;
+    }
+  
+    .logo1{
+      width: 94px;
+      height: 80px;
+      padding: 20px;
+  }
+  
+  footer{
+    height: 120px;
+  }
+  
