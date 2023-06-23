@@ -1562,7 +1562,7 @@ top: 40px;
   padding:10px;
 }
 
-                          /*ACHIVEMENT 650*/
+                          /*ACHIVEMENT 450*/
 
 
 .icon1, .icon2, .icon3{
@@ -1577,7 +1577,7 @@ top: 40px;
 }
 
 .icon2{
-  margin-left: 40px;
+  margin-left: 50px;
 }
 
 .word{
@@ -1590,7 +1590,7 @@ top: 40px;
   margin-left: 20px;
 }
 
-             /*SECTION 1 (650)*/
+             /*SECTION 1 (450)*/
 
 .picture2{
   width: 200px;
@@ -1628,7 +1628,7 @@ margin-top: 50px;
      border-radius: 15px;
 }
 
-                     /*SECTION 2 (650)*/
+                     /*SECTION 2 (450)*/
 
   .line3{
     max-width: 35px;
@@ -1643,19 +1643,21 @@ margin-top: 50px;
         }
 
 .pic3{
-  height: 400px;
-  width: 320px;
+  height: 360px;
+  width: 288px;
 }
-
+.word2{
+  font-size: 18px;
+}
 .more{
-    padding: 15px;
+    padding: 12px;
     border-radius: 15px;
     font-size: 16px;
 }
-                      /* section 3 650*/
+                      /* section 3 450*/
 
 .information{ 
-    margin-left: 30px;
+    margin-left: 20px;
      margin-top: 40px;
 }
 
