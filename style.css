@@ -1502,7 +1502,7 @@ top: 40px;
 
                       @media only screen and (max-width: 650px) {
 .picture1{
-        height: 60vh;
+        height: 50vh;
       }
 
 .big{
@@ -2118,7 +2118,7 @@ footer{
 
 
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 400px) {
   .picture1{
           height: 45vh;
         }
