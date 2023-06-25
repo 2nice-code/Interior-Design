@@ -1885,7 +1885,7 @@ footer{
   .about > p {
     left: 20px;
     top: 15px;
-    width: 200px; 
+    width: 210px; 
     font-size: 13px;
     line-height: 18px;   
   }
@@ -2299,7 +2299,7 @@ footer{
 
 
 
-@media only screen and (max-width: 390px) {
+@media only screen and (max-width: 395px) {
   .picture1{
           height: 45vh;
         }
@@ -2313,8 +2313,8 @@ footer{
     }
   
     .in{ 
-      padding-left: 8px;
-      font-size: 11px;
+      padding-left: 7px;
+      font-size: 10px;
    }
 
   .info1{
@@ -2331,6 +2331,18 @@ footer{
     left: 40px;
     top: 75px
   }
+
+  
+.word{
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.num{
+  font-size: 24px;
+  margin-left: 20px;
+}
+
   
                             /*ACHIVEMENT 390*/
   
@@ -2342,7 +2354,11 @@ footer{
   }
   
   .about > p {
-    width: 180px;   
+    width: 165px;
+    left: 20px;
+    top: 15px;
+    font-size: 13px;
+    line-height: 15px;   
   }
   
   .aboutus{
@@ -2452,7 +2468,7 @@ footer{
   }
   
   .description{font-weight: 490;
-  width: 140px;
+  width: 105px;
   font-size: 10.5px;
   }
   
