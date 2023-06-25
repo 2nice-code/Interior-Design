@@ -1843,7 +1843,7 @@ footer{
     }
   
     .in{ 
-      padding: 7px;
+      padding: 8px;
       font-size: 11px;
    }
 
@@ -2029,10 +2029,12 @@ footer{
   }
   
   .space{
-    margin-left: 50px;
+    margin-left: 40px;
   }
   
-  
+  .icons{
+    width: 100%;
+  }
   .word3{
     font-weight: 600;
     font-size: 15px;
@@ -2041,12 +2043,20 @@ footer{
 
   .gap{
     width: 140px;
+    padding: 0px;
   }
   
   .description{font-weight: 500;
-  width: 145px;
+  width: 130px;
   font-size: 12px;
+  text-align: center;
   }
+
+  .ad{
+    padding-left: 10px;
+  }
+
+
   
   .pic14{
     width: 375px;
@@ -2119,7 +2129,7 @@ footer{
     }
   
     .in{ 
-      padding-left: 7px;
+      padding-left: 8px;
       font-size: 11px;
    }
 
