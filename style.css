@@ -1521,7 +1521,6 @@ top: 40px;
   }
 
   .in{ 
-    padding-left: 5px;
     font-size: 14px;
 
  }
@@ -1844,8 +1843,8 @@ footer{
     }
   
     .in{ 
-      padding-left: 5px;
-      font-size: 12px;
+      padding: 7px;
+      font-size: 11px;
    }
 
   .info1{
@@ -2120,8 +2119,8 @@ footer{
     }
   
     .in{ 
-      padding-left: 4px;
-      font-size: 12px;
+      padding-left: 7px;
+      font-size: 11px;
    }
 
   .info1{
