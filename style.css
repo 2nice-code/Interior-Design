@@ -1829,7 +1829,7 @@ footer{
 
  }
 
-                @media only screen and (max-width: 450px) {
+                @media only screen and (max-width: 410px) {
   .picture1{
           height: 45vh;
         }
