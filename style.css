@@ -529,7 +529,7 @@ body{
 .more2{
   position: relative;
     padding: 20px;
-    border: 1px solid ;
+    border: 1px;
     border-radius: 20px;
     font-size: 18px;
     font-weight: 500px;
@@ -581,6 +581,7 @@ body{
     position: relative;
     width: 1152px;
     height: 558px;
+    border-radius: 15px;
 }
 
 
@@ -2117,7 +2118,7 @@ footer{
 
 
 
-@media only screen and (max-width: 390px) {
+@media only screen and (max-width: 400px) {
   .picture1{
           height: 45vh;
         }
@@ -2160,7 +2161,7 @@ footer{
   }
   
   .about > p {
-    width: 170px;   
+    width: 180px;   
   }
   
   .aboutus{
