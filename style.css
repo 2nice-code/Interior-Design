@@ -1652,7 +1652,7 @@ height: 303px;
     border-radius: 15px;
     font-size: 16px;
 }
-                      /* section 3 450*/
+                      /* section 3 650*/
 
 .information{ 
     margin-left: 20px;
@@ -1746,10 +1746,14 @@ top: 40px;
 .button{
   margin: 15px;
 }
+.view{
+  padding: 15px;
+  font-size: 15px;
+}
 
 .more2{
     padding: 15px;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 500px;
     margin-bottom: 40px;
 }
@@ -1865,7 +1869,7 @@ footer{
   .about > p {
     left: 20px;
     top: 15px;
-    width: 190px; 
+    width: 185px; 
     font-size: 13px;
     line-height: 18px;
     
@@ -1874,7 +1878,7 @@ footer{
   .aboutus{
     left: 70px;
     top: 5px;
-    font-size: 20px;
+    font-size: 18px;
   }
   
   .line2{
@@ -2001,7 +2005,7 @@ footer{
   
   .more2{
       padding: 15px;
-      font-size: 18px;
+      font-size: 14px;
       font-weight: 500px;
       margin-bottom: 40px;
   }
@@ -2124,105 +2128,82 @@ footer{
   
                             /*ACHIVEMENT 390*/
   
-               /*SECTION 1 (450)*/
+               /*SECTION 1 (390)*/
   
   .picture2{
-    width: 200px;
-  height: 255px;
-  margin-top: 50px;
+    width: 180px;
+  height: 229px;
   }
   
   .about > p {
-    left: 20px;
-    top: 15px;
-    width: 190px; 
-    font-size: 13px;
-    line-height: 18px;
-    
+    width: 170px;   
   }
   
   .aboutus{
-    left: 70px;
-    top: 5px;
-    font-size: 20px;
+    left: 60px;
+    font-size: 18px;
   }
   
   .line2{
-      left: 20px;
-      top: 20px;
-      max-width: 35px;
+      top: 18px;
+      max-width: 25px;
       }
   
   
-                       /*SECTION 2 (450)*/
+                       /*SECTION 2 (390)*/
   
     .line3{
-      max-width: 35px;
-      left: 20px;
-      top: -175px;
+      max-width: 25px;
+      top: -177px;
       }
   
-  .latest{
-      margin-left: 70px;
-      font-size: 20px;
-      top: -200px;
-          }
-  
   .pic3{
-    height: 360px;
-    width: 288px;
+    height: 324px;
+    width: 259px;
   }
   
-                        /* section 3 450*/
+                        /* section 3 390*/
   
   .information{ 
-      margin-left: 20px;
-       margin-top: 40px;
+      margin-left: 19px;
   }
   
   .picture7{
-    margin: 15px;
-    width: 263px;
-    height: 195px;
-    margin-top: 100px;
+    width: 249px;
+    height: 185px;
   }
   
   .list{
-    width: 190px;
-    left: 110px;
-    border-radius: 10px;
-    padding: 30px;
-     top: 50px;
+    width: 170px;
+    left: 100px;
+    padding: 28px;
   }
   
   .tip{
-    font-size: 15px;
-    line-height: 16px;
+    font-size: 14px;
     }
   
-            /*CATEGORY 450*/
+            /*CATEGORY 390*/
   
-   .line4{max-width: 35px;
-      top: 100px;
-      left: 30px;
+   .line4{max-width: 25px;
+      left: 20px;
       }
   
-  .cat{font-size: 20px;
-    margin-left: 80px;
-     top: 77px;
+  .cat{
+    margin-left: 60px;
           }
   
     .pic{
-    height: 170px;
-    width: 117px;
+    height: 152px;
+    width: 105px;
   }
   
   .pic9{
-      padding-left: 4px;
-      padding-right: 4px;
+      padding-left: 3px;
+      padding-right: 3px;
   }
   .pic10{
-    width: 110px;
+    width: 98px;
   }
   
   .wrapper1{
@@ -2230,92 +2211,58 @@ footer{
   }
   
   .light{
-  margin-left: 5px;
-  font-size: 15px;
-  top: 140px;
-  
+  margin-left: 14px;  
   }
   
   .moody{
-  margin-left: 130px;
-  font-size: 15px;
-  top: 40px;
-  
+  margin-left: 120px;
   }
   
   .loft{
-    margin-left: 270px;
+    margin-left: 230px;
     font-size: 15px;
+    margin-top: 10px;
   }
   
-   .line5{
-      top: -200px;
-      max-width: 35px;
-      left: 30px;
-      }
   
-  .past{
-      top: -220px;
-      font-size: 20px;
-      margin-left: 80px;
-          }
-  
-  #carousel{
-    margin-top: -180px;
-  }
-  
-.view{
-  font-size: 14px;
-  padding: 15px;
-}
-  
-  .more2{
-      padding: 15px;
-      font-size: 18px;
-      font-weight: 500px;
-      margin-bottom: 40px;
-  }
-  
-                                          /*What we offer 450*/
+                                          /*What we offer 390*/
   
   .offer{
-      font-size: 30px;
+      font-size: 28px;
   }
   
   .space{
-    margin-left: 50px;
+    margin-left: 35px;
   }
   
-  
   .word3{
-    font-weight: 600;
+    font-weight: 550px;
     font-size: 15px;
     margin-bottom: 10px;
   }
 
   .gap{
-    width: 140px;
+    width: 125px;
   }
   
-  .description{font-weight: 500;
-  width: 145px;
-  font-size: 12px;
+  .description{font-weight: 490;
+  width: 140px;
+  font-size: 10.5px;
   }
   
   .pic14{
-    width: 375px;
-    height: 181px;
+    width: 318px;
+    height: 153px;
   }
   
   .word4{
-    font-size: 20px;
+    font-size: 18px;
   }
   
   .pic17{
-    height: 159px;
-    width: 177px;
-    margin-right: 20px;
-    margin-top: 15px;
+    height: 143px;
+    width: 159px;
+    margin-right: 25px;
   }
   
   form{
@@ -2324,25 +2271,26 @@ footer{
   }
   
   .disc{
-      font-size: 16px;
+      font-size: 15px;
       line-height: 20px;    
   }
   
   .sub{
-    font-size: 12px;
+    font-size: 11px;
   }
   
   .input{
-    padding: 2px;
+    padding: 1px;
     padding-left: 0;
-    font-size: 10px; 
-    width: 170px;
+    font-size: 8px; 
+    width: 140px;
+    height: 30px;
     }
   
     .logo1{
-      width: 79px;
-      height: 68px;
-      padding: 20px;
+      width: 71px;
+      height: 61px;
+      padding: 15px;
   }
 
   .submit{
@@ -2352,6 +2300,6 @@ footer{
   }
   
   footer{
-    height: 120px;
+    height: 100px;
   }
   
