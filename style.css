@@ -217,7 +217,7 @@ body{
   font-size: 40px;
   color: #B56D4C;
   text-align: center;
-  font-family: 'Bookman Old Style';
+  font-family: 'montserrat';
 
 }
 
@@ -235,7 +235,7 @@ body{
   top: 150px;
   width: 490px;
   left: 50px;
-  font-family: 'Montserrat';
+  font-family: 'Bookman Old Style';
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -249,8 +249,8 @@ body{
   top: 100px;
   font-family: 'Bookman Old Style';
   font-style: normal;
-  font-weight: 600;
-  font-size: 36px;
+  font-weight: 300;
+  font-size: 26px;
 }
 
   .line2{
@@ -529,7 +529,7 @@ body{
 .more2{
   position: relative;
     padding: 20px;
-    border: 1px solid #B56D4C;
+    border: 1px solid ;
     border-radius: 20px;
     font-size: 18px;
     font-weight: 500px;
@@ -767,7 +767,7 @@ height: 479px;
 .aboutus{
   left: 160px;
   top: 50px;
-  font-size: 30px;
+  font-size: 26px;
 }
 
   .line2{
@@ -983,7 +983,9 @@ height: 399px;
   color: #FFFFFF;
    text-align: center;
 }
-
+.latest{
+  font-size: 18px;
+}
               /*SECTION 2 (950)*/
 
 
@@ -1168,7 +1170,7 @@ top: 100px;
 .aboutus{
   left: 115px;
   top: -55px;
-  font-size: 22px;
+  font-size: 24px;
 }
 
 .line2{
